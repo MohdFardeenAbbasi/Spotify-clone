@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MFA clone spotify</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="javascript.js">
+</head>
+<body>
+    <div class="nav">
+        <div class="logo">
+           <img src="spotify white.png" alt="spf"> 
+            <span class="ltext">Spotify</span>
+        </div>
+        
+        <div class="li">
+            <ul>
+                <li><a href="">Premium</a></li>
+                <li><a href="">Support</a></li>
+                <li><a href="">Premium</a></li>
+                <li><a href="">Download</a></li>
+                <li> | </li>
+
+            
+            
+                <li><button><li>Sing up</li></button></li>
+                <li><button><li>Log in </li></button></li>
+            </ul>
+        </div>
+    </div>
+    <div class="imageb">
+        <img src="https://wwwmarketing.scdn.co/static/images/free/desktop-hero.jpeg" alt="banner image" class="img2">
+         </div>
+         <div class="overlay">
+            <h1>Play millions of songs</h1>
+            <h1>and podcasts for free</h1>
+            <div class="b">
+            <button class="overlay_button">Sign up free</button>
+            </div>
+            
+         </div>
+         <!-- makeing of the mid 4 part -->
+         <div class="mid">
+                <h1 class="ws">Why Spotify?</h1>
+            </div>
+            <div class="mb">
+            <div class="f1">
+                <img src="green play.png" alt="green play" class="gp">
+                <div class="text">
+                <h4>Play your favorites</h4>
+                <p>Listen to the songs you love, and <BR>discover new music and podcasts.</p>
+                    </div>
+            </div>
+             <div class="f2">
+                <img src="lig green.png" alt="lib photo" class="gp">
+                <div class="text">
+                <h4>Playlists made easy</h4>
+                <p>We'll help you make playlists. Or enjoy <br>playlists made by music experts.</p>
+                    </div>
+            </div>
+            <div class="f3">
+                <img src="green heart.png" alt="green play" class="gp">
+                <div class="text">
+                <h4>Make it yours</h4>
+                <p>Tell us what you like, and we'll <br> recommend music for you.</p>
+                    </div>
+            </div>
+             <div class="f4">
+                <img src="charge.png" alt="lib photo" class="gp">
+                <div class="text">
+                <h4>Save mobile data</h4>
+                <p>To use less data when you play music, <br> turn on Data Saver in Settings.</p>
+                    </div>
+
+            </div>
+            </div>
+            <section class="greenimg">
+            
+                <div class="gtext">
+                <span class="no">It's free. No credit card <br> required.</span>
+                </div>
+                <div class="gimg">
+                <img src="https://wwwmarketing.scdn.co/static/images/free/mobile_benefit.png" alt="">
+                </div>
+           
+            </section>
+           <div class="question">
+            <h1>Got Questions?</h1>
+            <details>
+                <summary>How do i create playlist?</summary>
+                   <p>Go to Your Library, tap on Create Playlist, and give it a name. Add songs to it from any track’s options menu.</p>
+  </details>
+
+  <details>
+    <summary>How do I activate Data Saver mode?</summary>
+    <p>Go to Settings, tap on Data Saver, and turn it on to reduce data usage.</p>
+  </details>
+
+  <details>
+    <summary>Is it only possible to shuffle play music?</summary>
+    <p>Free users can only shuffle playlists. Premium users can play any song on demand.</p>
+  </details>
+
+  <details>
+    <summary>Where can I find Podcasts?</summary>
+    <p>Go to the Search tab and choose Podcasts. You can browse or search for your favorites.</p>
+  </details>
+
+           </div>
+           <div class="pinkbu">
+            <img src="https://wwwmarketing.scdn.co/static/images/free/desktop-closing.jpeg" alt="">
+            <div class="pink_text">
+            <h3>Ready? Let's play.</h3>
+          
+          <div class="pink_button">
+           <button>Sing up free</button>
+           </div>
+           </div>
+          </div>
+          <section>
+            <footer>
+                
+            <div class="bottomf">
+                
+            </div>
+            </footer>
+          </section>
+</body>
+</body>
+</html>
